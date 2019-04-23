@@ -1,0 +1,6 @@
+ NewsLetter - ToDo
+
+1-	Remove Carousel
+2-	Set menu on mobile version or hidden that
+3-	Set Logo in Center in Mobile Version
+4-	Next & Previous Icon to set in Mobile version.
