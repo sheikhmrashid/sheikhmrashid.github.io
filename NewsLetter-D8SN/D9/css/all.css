@@ -53,8 +53,8 @@ li {
 			padding-right: 10%;
 		}
 		
-	/*.w20 { width:150%: */
-	/*} */
+	/* .w20 { width:150%: */
+	/* } */
 }
 /* Header */
 #header {
@@ -29233,4 +29233,18 @@ img.vam {
 	color: #2399FD
 }
 
+.stickyHeader2 .container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+    align-content: center;
+    position: relative;
+}					
+					
+.stickyHeader2 {
+	padding: 20px;
+	background: #E9EEF5;
+	top: 0;
+}
 
